@@ -30,26 +30,15 @@
         "name": "westeurope",
         "short_name": "weu1"
     },
-    "modules": [
+    "componens": [
         {
-            "cloud": "sisifo",
-            "name": "sisifo",
-            "path": "sisifo_init",
+            "feature": "sisifo",
+            "action": "ADD",
+            "automerge": true,
             "properties": {
-                "repo_init_automerge": "false"
+                "name": "azure_functions",
+                "location": "westeurope"
             }
-        },
-        {
-            "cloud": "azure",
-            "name": "budget",
-            "path": "azure/budget",
-            "properties": {}
-        },
-        {
-            "cloud": "azure",
-            "name": "function",
-            "path": "azure/function",
-            "properties": {}
         }
     ],
     "repository_name": "iac-sisifovalidationmagenta",
