@@ -30,7 +30,7 @@
         "name": "westeurope",
         "short_name": "weu1"
     },
-    "componens": [
+    "components": [
         {
             "feature": "sisifo",
             "action": "ADD",
