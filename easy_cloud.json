@@ -37,7 +37,7 @@
             "automerge": true,
             "status": "requested",
             "properties": {
-                "name": "azure_functions",
+                "name": "sisifo",
                 "location": "westeurope"
             }
         },
@@ -47,7 +47,7 @@
             "automerge": true,
             "status": "requested",
             "properties": {
-                "name": "azure_functions",
+                "name": "api",
                 "location": "westeurope"
             }
         }
