@@ -35,6 +35,17 @@
             "feature": "sisifo",
             "action": "ADD",
             "automerge": true,
+            "status": "requested",
+            "properties": {
+                "name": "azure_functions",
+                "location": "westeurope"
+            }
+        },
+         {
+            "feature": "azure-function",
+            "action": "ADD",
+            "automerge": true,
+            "status": "requested",
             "properties": {
                 "name": "azure_functions",
                 "location": "westeurope"
