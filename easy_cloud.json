@@ -35,13 +35,13 @@
       "feature": "sisifo",
       "action": "ADD",
       "automerge": true,
-      "status": "requested",
+      "status": "success",
       "properties": {
         "name": "sisifo",
         "location": "westeurope"
       }
     },
-     {
+    {
       "feature": "azure",
       "action": "ADD",
       "automerge": true,
