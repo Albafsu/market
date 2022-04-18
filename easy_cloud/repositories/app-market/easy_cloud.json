@@ -31,11 +31,11 @@
     "short_name": "weu1"
   },
   "components": [
-      {
+    {
       "feature": "sisifo",
       "action": "ADD",
       "automerge": true,
-      "status": "requested",
+      "status": "success",
       "properties": {
         "name": "sisifo",
         "location": "westeurope"
