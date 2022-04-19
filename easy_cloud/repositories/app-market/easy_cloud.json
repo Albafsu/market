@@ -39,8 +39,7 @@
       "properties": {
         "name": "sisifo",
         "location": "westeurope"
-      },
-      "stat": "success"
+      }
     }
   ],
   "repository_name": "iac-sisifovalidationmagenta",
