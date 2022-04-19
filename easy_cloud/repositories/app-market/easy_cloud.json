@@ -30,8 +30,8 @@
     "name": "westeurope",
     "short_name": "weu1"
   },
-    "components": [
-  {
+  "components": [
+    {
       "feature": "sisifo",
       "action": "ADD",
       "automerge": true,
@@ -39,8 +39,9 @@
       "properties": {
         "name": "sisifo",
         "location": "westeurope"
-      }
-  }
+      },
+      "stat": "success"
+    }
   ],
   "repository_name": "iac-sisifovalidationmagenta",
   "sisifo_version": "2.0.0-rc"
