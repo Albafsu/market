@@ -31,7 +31,7 @@
     "short_name": "weu1"
   },
   "components": [
-   {
+    {
       "cloud": "azure",
       "name": "function",
       "path": "azure/function",
