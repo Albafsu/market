@@ -32,12 +32,12 @@
   },
   "components": [
    {
-      "feature": "sisifo",
-      "action": "ADD",
-      "automerge": true,
+      "cloud": "azure",
+      "name": "function",
+      "path": "azure/function",
       "status": "requested",
       "properties": {
-        "name": "sisifo",
+        "suffix": "az",
         "location": "westeurope"
       }
     }
