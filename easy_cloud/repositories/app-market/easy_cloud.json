@@ -35,7 +35,7 @@
       "cloud": "azure",
       "name": "function",
       "path": "azure/function",
-      "status": "requested",
+      "status": "success",
       "properties": {
         "suffix": "az",
         "location": "westeurope"
