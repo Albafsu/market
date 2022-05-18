@@ -36,6 +36,7 @@
       "action": "ADD",
       "automerge": true,
       "status": "requested",
+      "path":"azure/function", 
       "properties": {
         "name": "sisifo",
         "location": "westeurope"
